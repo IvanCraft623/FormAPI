@@ -3,7 +3,7 @@
     "description": "Simple API for creating forms on PocketMine-MP.",
     "type": "library",
     "license": "LGPL-3.0",
-    "require": {
+    "require-dev": {
         "pocketmine/pocketmine-mp": "^4.0.0 || ^5.0.0"
     },
     "autoload": {

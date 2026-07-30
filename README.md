@@ -28,7 +28,7 @@ In your `composer.json` add an entry to the `require` attribute, like so:
     "name": "author/project",
     "require": {
 +     "jojoe77777/formapi": "^2.1.1",
-      "pmmp/pocketmine-mp": "^4.0.0
+      "pocketmine/pocketmine-mp": "^4.0.0
     }
   }
 ```
